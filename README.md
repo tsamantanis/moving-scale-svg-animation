@@ -1,0 +1,1 @@
+# Scale SVG animation
